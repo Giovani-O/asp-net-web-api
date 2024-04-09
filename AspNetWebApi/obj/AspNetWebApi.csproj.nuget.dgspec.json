@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj": {}
+    "c:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj": {}
   },
   "projects": {
-    "C:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj": {
+    "c:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj",
+        "projectUniqueName": "c:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj",
         "projectName": "AspNetWebApi",
-        "projectPath": "C:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj",
+        "projectPath": "c:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj",
         "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\AspNetWebApi\\AspNetWebApi\\obj\\",
+        "outputPath": "c:\\github\\AspNetWebApi\\AspNetWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config"

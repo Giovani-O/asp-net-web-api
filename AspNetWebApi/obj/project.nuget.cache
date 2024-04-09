@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NVlyD4c9inn4iekBWeiOjzqp88H666w4pe/kQ4f7zYG+EpcQWwG8PV1lzzmZbnja59+RXdZcXap6DF0YJrw11A==",
+  "dgSpecHash": "h7bqfNWxAM9Rj7lw3B4pZV/y+xSxkaki1owAQt2rjoUENaL2vQC2zOECrTZXs4ZQelMQ9YPkhtHFBeJrIYu/eQ==",
   "success": true,
-  "projectFilePath": "C:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj",
+  "projectFilePath": "c:\\github\\AspNetWebApi\\AspNetWebApi\\AspNetWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giova\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "C:\\Users\\giova\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
